@@ -9,7 +9,7 @@ Sharing MATLAB code and data for reproducing results and facilitating review.
 ## Repository Structure
 
 * **`PumpHRC.m`**: MATLAB simulation code for HRC framework of the cascade pump system.
-* **`FeedDist,mat`**: Sequential data to accompany `PumpHRC.m`.
+* **`FeedDist.mat`**: Sequential data to accompany `PumpHRC.m`.
 
 ## Requirement
 
